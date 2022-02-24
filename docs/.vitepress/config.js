@@ -11,6 +11,8 @@ const logiSidebar = [
     { text: "Ruudust tähed, nimest märk", link: "/logi/02_ruudud_mark" },
     { text: "Logo visandamine ", link: "/logi/03_apple_logo" },
     { text: "Referentsi töö 1", link: "/logi/04_refer1" },
+    { text: "Referentsi töö 2", link: "/logi/05_refer2" },
+    { text: "Referentsi töö 3", link: "/logi/06_refer3" },
 ]
 
 module.exports = {
@@ -31,6 +33,9 @@ module.exports = {
             "/logi/02_ruudud_mark": logiSidebar,
             "/logi/03_apple_logo": logiSidebar,
             "/logi/04_refer1": logiSidebar,
+            "/logi/05_refer2": logiSidebar,
+            "/logi/06_refer3": logiSidebar,
+            
         },
     }
 };
