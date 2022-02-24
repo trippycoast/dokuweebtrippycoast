@@ -17,8 +17,11 @@ const logiSidebar = [
 
 module.exports = {
     title: "Blog 1",
+    base:"/docweb1/",
     themeConfig: {
+    
         nav: [
+
             { text: "Home", link: "/" },
             { text: "About", link: "/about/" },
             { text: "Log", link: "/logi/" },
