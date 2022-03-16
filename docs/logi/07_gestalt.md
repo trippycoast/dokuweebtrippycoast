@@ -1,6 +1,6 @@
 # Negatiivne ruum, reversioon, esiplaan-tagaplaan.
 
 
-![design_1](../images/gestalt/gestalt1)
-![design_2](../images/gestalt/gestalt2)
-![design_3](../images/gestalt/gestalt3)
+![design_1](../images/gestalt/gestalt1.png)
+![design_2](../images/gestalt/gestalt2.png)
+![design_3](../images/gestalt/gestalt3.png)

@@ -13,6 +13,7 @@ const logiSidebar = [
     { text: "Referentsi töö 1", link: "/logi/04_refer1" },
     { text: "Referentsi töö 2", link: "/logi/05_refer2" },
     { text: "Referentsi töö 3", link: "/logi/06_refer3" },
+    { text: "Negatiivne ruum", link: "/logi/07_gestalt" },
 ]
 
 module.exports = {
@@ -38,7 +39,7 @@ module.exports = {
             "/logi/04_refer1": logiSidebar,
             "/logi/05_refer2": logiSidebar,
             "/logi/06_refer3": logiSidebar,
-            
+            "/logi/07_gestalt": logiSidebar,
         },
     }
 };
