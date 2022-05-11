@@ -1,2 +1,2 @@
-# teeme nii, et see kõik on bueno
+# teeme nii, et see lehekülg on selle eesmärgiga loodud, et näidata minu tehtud töid vms.
 ---
