@@ -1,5 +1,5 @@
 # Tunniteema: Apple logo, visandite ülesanne
 
-kritseldatud piltidest vektori/disaini loomine
+kritseldatud pildist, teha disain
 
 ![apple1](../images/apples1/apple_draw1.png)

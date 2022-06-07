@@ -1,4 +1,4 @@
 # moodboard
 
-first moodboard prototype:
+Siin on moodboardid ning nende prototüübid:
  

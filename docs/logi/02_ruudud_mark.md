@@ -1,6 +1,6 @@
 # tunniteema: Ruudud tähtedeks, nime ja eriala ühine märk
 
- Ruutudest kujundatud tähed ja disaini loomine nimest
+ Ruutudest kujundatud, oma tähed ja nimed
 
 ![ühised märgid](../images/mark1/nime_mark.png)
 
