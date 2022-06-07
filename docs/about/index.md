@@ -1,2 +1,2 @@
-# teeme nii, et see lehekülg on selle eesmärgiga loodud, et näidata minu tehtud töid vms.
+# See lehekülg oli loodud selleks, et tulevikus oleks võimalik näha minu töid ja esitada Klabergile jne.
 ---

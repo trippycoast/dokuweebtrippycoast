@@ -17,7 +17,7 @@ const logiSidebar = [
 ]
 
 module.exports = {
-    title: "Blog_1",
+    title: "vaade_1",
     base:"/docweb1/",
     themeConfig: {
     

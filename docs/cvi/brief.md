@@ -1,2 +1,2 @@
 # Brief
-comedy is tragedy plus time
+多希拉克
