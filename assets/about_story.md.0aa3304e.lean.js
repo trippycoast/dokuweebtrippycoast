@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a as o}from"./app.8dbd5dde.js";const m='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about/story.md","lastUpdated":1652824380541}',s={},r=o("p",null,"fill text",-1),c=[r];function d(n,_,p,l,i,f){return a(),e("div",null,c)}var h=t(s,[["render",d]]);export{m as __pageData,h as default};
